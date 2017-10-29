@@ -8,15 +8,26 @@ Macセットアップ手順
 ```
 brew tap caskroom/cask
 ```
-3. Google Chrome のインストール
+3. その他 のインストール
 ```
+brew cask install alfred
+brew cask install appcleaner
+brew cask install the-unarchiver
+brew cask install clipy
 brew cask install google-chrome
+brew cask install visual-studio-code
+brew cask install google-japanese-ime
+brew cask install vlc
+brew cask install iterm2
+brew cask install docker
+brew cask install dmmbookviewer
+brew cask install firealpaca
+brew cask install maczip4win
+brew cask install github
 ```
 
+4. 後始末
 ```
-alfred                     firealpaca                 maczip4win
-appcleaner                 github                     the-unarchiver
-clipy                      google-chrome              visual-studio-code
-dmmbookviewer              google-japanese-ime        vlc
-docker                     iterm2
+brew cask cleanup
+brew cleanup
 ```
