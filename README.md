@@ -11,6 +11,7 @@ brew tap caskroom/cask
 3. その他 のインストール
 ```
 brew cask install alfred
+brew cask install cmd-eikana
 brew cask install appcleaner
 brew cask install the-unarchiver
 brew cask install clipy
