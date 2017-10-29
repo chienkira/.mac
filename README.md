@@ -12,3 +12,11 @@ brew tap caskroom/cask
 ```
 brew cask install google-chrome
 ```
+
+```
+alfred                     firealpaca                 maczip4win
+appcleaner                 github                     the-unarchiver
+clipy                      google-chrome              visual-studio-code
+dmmbookviewer              google-japanese-ime        vlc
+docker                     iterm2
+```
