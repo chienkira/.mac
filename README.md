@@ -8,7 +8,15 @@ Macセットアップ手順
 ```
 brew tap caskroom/cask
 ```
-3. その他 のインストール
+3. Homebrewの更新
+```
+brew update
+```
+4. Homebrewの検証
+```
+brew doctor
+```
+5. その他 のインストール
 ```
 brew cask install alfred
 brew cask install karabiner-elements
