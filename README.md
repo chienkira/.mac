@@ -8,11 +8,11 @@ Macセットアップ手順
 ```
 brew tap caskroom/cask
 ```
-3. Homebrewの更新
+3. Homebrew の更新
 ```
 brew update
 ```
-4. Homebrewの検証
+4. Homebrew の検証
 ```
 brew doctor
 ```
