@@ -28,7 +28,7 @@ brew cask install visual-studio-code
 brew cask install google-japanese-ime
 brew cask install vlc
 brew cask install iterm2
-brew cask install docker
+# brew cask install docker
 brew cask install bettertouchtool
 # brew cask install dmmbookviewer
 # brew cask install firealpaca
