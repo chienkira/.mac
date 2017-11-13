@@ -30,6 +30,7 @@ brew cask install vlc
 brew cask install iterm2
 # brew cask install docker
 # brew cask install bettertouchtool
+# brew cask install kindle
 # brew cask install dmmbookviewer
 # brew cask install firealpaca
 brew cask install maczip4win
