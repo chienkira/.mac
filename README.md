@@ -31,6 +31,7 @@ brew cask install iterm2
 brew cask install maczip4win
 brew cask install docker
 brew cask install kitematic
+brew cask install sql-operations-studio
 # brew cask install kindle
 # brew cask install dmmbookviewer
 # brew cask install firealpaca
