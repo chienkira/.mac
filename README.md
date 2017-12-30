@@ -26,6 +26,7 @@ brew cask install clipy
 brew cask install google-chrome
 brew cask install visual-studio-code
 brew cask install google-japanese-ime
+brew cask install microsoft-office
 brew cask install vlc
 brew cask install iterm2
 brew cask install maczip4win
