@@ -33,7 +33,6 @@ brew cask install docker
 brew cask install kitematic
 brew cask install sql-operations-studio
 brew cask install github
-brew install node
 # brew cask install kindle
 # brew cask install dmmbookviewer
 # brew cask install firealpaca
@@ -52,8 +51,18 @@ mas install 539883307       # LINE
 mas install 557168941       # Tweetbot
 ```
 
-7. 後始末
+8. Node.js のインストール
+```
+brew install node
+```
+
+9. 後始末
 ```
 brew cask cleanup
 brew cleanup
 ```
+
+10. その他パッケージのインストール
+ESET
+Canonプリンタードライバ
+宛名職人
