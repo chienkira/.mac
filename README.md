@@ -51,9 +51,12 @@ mas install 539883307       # LINE
 mas install 557168941       # Tweetbot
 ```
 
-8. Node.js のインストール
+8. Nodebrew のインストール
 ```
-brew install node
+brew install nodebrew
+/usr/local/opt/nodebrew/bin/nodebrew setup_dirs
+nodebrew install-binary stable
+nodebrew use v8.9.4
 ```
 
 9. 後始末
